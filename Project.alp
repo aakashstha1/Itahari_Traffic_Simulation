@@ -108,9 +108,9 @@
 			<CurrentLevel>1718951136315</CurrentLevel>
 			<ConnectionsId>1718951136309</ConnectionsId>
 			<TrafficLight>
-				<Id>1718953557041</Id>
+				<Id>1719319616283</Id>
 				<Name><![CDATA[trafficLight]]></Name>
-				<X>1220</X><Y>840</Y>
+				<X>1200</X><Y>900</Y>
 				<Label><X>0</X><Y>-20</Y></Label>
 				<PublicFlag>true</PublicFlag>
 				<PresentationFlag>true</PresentationFlag>
@@ -138,17 +138,33 @@
 				<Line>1718951805958</Line>
 				<Line>1718951843760</Line>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[10]]></Code>
+					<Code><![CDATA[35]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[5]]></Code>
+					<Code><![CDATA[3]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[15]]></Code>
+					<Code><![CDATA[35]]></Code>
 				</Duration>
 				<Duration Class="CodeValue">
-					<Code><![CDATA[5]]></Code>
+					<Code><![CDATA[3]]></Code>
 				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[35]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[3]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[35]]></Code>
+				</Duration>
+				<Duration Class="CodeValue">
+					<Code><![CDATA[3]]></Code>
+				</Duration>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>YELLOW</DefaultState>
+				<DefaultState>RED</DefaultState>
+				<DefaultState>YELLOW</DefaultState>
 				<DefaultState>RED</DefaultState>
 				<DefaultState>YELLOW</DefaultState>
 				<DefaultState>RED</DefaultState>
@@ -157,7 +173,91 @@
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
 				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
@@ -167,7 +267,31 @@
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
 				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>RED</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
@@ -177,7 +301,7 @@
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
-				<State>RED</State>
+				<State>GREEN</State>
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
@@ -187,7 +311,9 @@
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
-				<State>RED</State>
+				<State>GREEN</State>
+				<State>YELLOW</State>
+				<State>GREEN</State>
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
@@ -197,37 +323,7 @@
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
-				<State>YELLOW</State>
-				<State>RED</State>
+				<State>GREEN</State>
 				<State>YELLOW</State>
 				<State>RED</State>
 				<State>YELLOW</State>
@@ -3710,6 +3806,137 @@
 						</Parameter>
 						<Parameter>
 							<Name><![CDATA[onWayNotFound]]></Name>
+						</Parameter>
+					</Parameters>
+					<ReplicationFlag>false</ReplicationFlag>
+					<Replication Class="CodeValue">
+						<Code><![CDATA[100]]></Code>
+					</Replication>
+					<CollectionType>ARRAY_LIST_BASED</CollectionType>
+					<InitialLocationType>AT_ANIMATION_POSITION</InitialLocationType>
+					<XCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</XCode>
+					<YCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</YCode>
+					<ZCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</ZCode>
+					<ColumnCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</ColumnCode>
+					<RowCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</RowCode>
+					<LatitudeCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</LatitudeCode>
+					<LongitudeCode Class="CodeValue">
+						<Code><![CDATA[0]]></Code>
+					</LongitudeCode>
+					<LocationNameCode Class="CodeValue">
+						<Code><![CDATA[""]]></Code>
+					</LocationNameCode>
+					<InitializationType>SPECIFIED_NUMBER</InitializationType>
+					<InitializationDatabaseTableQuery>
+						<TableReference>
+						</TableReference>
+					</InitializationDatabaseTableQuery>
+					<InitializationDatabaseType>ONE_AGENT_PER_DATABASE_RECORD</InitializationDatabaseType>
+					<QuantityColumn>
+					</QuantityColumn>
+				</EmbeddedObject>
+				<EmbeddedObject>
+					<Id>1719319859055</Id>
+					<Name><![CDATA[roadNetworkDescriptor]]></Name>
+					<X>1190</X><Y>750</Y>
+					<Label><X>-75</X><Y>-25</Y></Label>
+					<PublicFlag>false</PublicFlag>
+					<PresentationFlag>true</PresentationFlag>
+					<ShowLabel>true</ShowLabel>
+					<ActiveObjectClass>
+						<PackageName><![CDATA[com.anylogic.libraries.road]]></PackageName>
+						<ClassName><![CDATA[RoadNetworkDescriptor]]></ClassName>
+					</ActiveObjectClass>
+					<GenericParameterSubstitute>
+						<GenericParameterSubstituteReference>
+							<PackageName><![CDATA[com.anylogic.libraries.road]]></PackageName>
+							<ClassName><![CDATA[RoadNetworkDescriptor]]></ClassName>
+							<ItemName><![CDATA[1431616410057]]></ItemName>
+						</GenericParameterSubstituteReference>
+					</GenericParameterSubstitute>
+					<Parameters>
+						<Parameter>
+							<Name><![CDATA[roadNetwork]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[roadNetwork]]></Code>
+							</Value>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[roadSectionLength]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[50]]></Code>
+								<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
+							</Value>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[enableDensityMap]]></Name>
+							<Value Class="CodeValue">
+								<Code><![CDATA[true]]></Code>
+							</Value>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[greenSpeedLevel]]></Name>
+							<Value Class="CodeUnitValue">
+								<Code><![CDATA[40]]></Code>
+								<Unit Class="SpeedUnits"><![CDATA[KPH]]></Unit>
+							</Value>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[redSpeedLevel]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[densityMapTransparency]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnterNetwork]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onExitNetwork]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnterRoad]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onExitRoad]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onEnterIntersection]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onExitIntersection]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onChangeLane]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onStop]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onResumeMoving]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[onClickCar]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[automaticallyResolveDeadlocks]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[geometricCalculationsPrecision]]></Name>
+						</Parameter>
+						<Parameter>
+							<Name><![CDATA[temporalCalculationsPrecision]]></Name>
 						</Parameter>
 					</Parameters>
 					<ReplicationFlag>false</ReplicationFlag>
